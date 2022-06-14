@@ -1,0 +1,13 @@
+@charset "utf-8";
+p {
+	color: darkgreen;
+	font-family: Constantia, "Lucida Bright" , "DejaVu Serif" , Georgia, "serif";
+	font-size: 14px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightgray;
+	padding: 20px;
+}
+body{
+	background-image: url(ja.jpg);
+}
